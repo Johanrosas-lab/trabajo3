@@ -67,3 +67,8 @@
 ---
 
 ## 📂 Estructura del proyecto
+trabajo3/
+├─ cv.html # Página principal (Hoja de Vida)
+├─ cv.css # Estilos (paleta, layout Grid/Flex, animaciones)
+└─ img/
+└─ foto.jpg # Foto (puedes usar "Retrato acuático con luces de neón.png")
